@@ -1,19 +1,29 @@
-### Hi there 👋
+## Hi there 👋
+<a href="https://wakatime.com/@3b9bd149-b3b4-45aa-af94-8fbddbbac283"><img src="https://wakatime.com/badge/user/3b9bd149-b3b4-45aa-af94-8fbddbbac283.svg" alt="Total time coded since May 18 2023" /></a>
+### WakaTime Activity 
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@AhmadGhoni/c8119fe2-8c4d-480b-8c41-2e69148b03e8.svg">
+<img alt="AhmadGhoni WakaTime Coding Activity" src="https://wakatime.com/share/@AhmadGhoni/8bd9fb95-8452-4f6c-801c-f7278b8f9b60.svg" width="100%">
+</picture>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=AhmadGhoni&layout=compact&theme=dark">
+<img alt="AhmadGhoni WakaTime Coding Languages" src="https://github-readme-stats.vercel.app/api/wakatime?username=AhmadGhoni&layout=compact" width="49.5%">
+</picture>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AhmadGhoni&show_icons=true&theme=dark">
+<img alt="AhmadGhoni GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AhmadGhoni&show_icons=true" width="49.5%">
+</picture>
+<!--
+<details>
+  <summary>Most Used Languages</summary>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadGhoni&layout=compact&theme=dark">
+<img alt="AhmadGhoni GitHub Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadGhoni&layout=compact">
+</picture>
+</details>
+-->
 
-#### WakaTime Activity
-<a href="https://wakatime.com/@AhmadGhoni"><img
-  src="https://wakatime.com/share/@AhmadGhoni/c8119fe2-8c4d-480b-8c41-2e69148b03e8.svg"
-  alt="AhmadGhoni WakaTime Coding Activity" width="100%"
-/>
-<img
-  src="https://wakatime.com/share/@AhmadGhoni/f8971701-818f-46cd-a981-f38d81f64ab5.svg"
-  alt="AhmadGhoni WakaTime Coding Languages" width="49.5%" 
-/>&nbsp;<img
-  src="https://wakatime.com/share/@AhmadGhoni/f8971701-818f-46cd-a981-f38d81f64ab5.svg"
-  alt="AhmadGhoni WakaTime Coding Languages" width="49.5%"
-/></a>
-
-#### Holopin Badges
+### Holopin Badges
 [![An image of @ahmadghoni's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ahmadghoni)](https://holopin.io/@ahmadghoni)
 
 <!--
