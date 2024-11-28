@@ -2,7 +2,7 @@
 <a href="https://wakatime.com/@3b9bd149-b3b4-45aa-af94-8fbddbbac283"><img src="https://wakatime.com/badge/user/3b9bd149-b3b4-45aa-af94-8fbddbbac283.svg" alt="Total time coded since May 18 2023" /></a>
 ### WakaTime Activity 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@AhmadGhoni/c8119fe2-8c4d-480b-8c41-2e69148b03e8.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@AhmadGhoni/d302a2cb-fbe6-4f05-92db-6a06e7fd0424.svg">
 <img alt="AhmadGhoni WakaTime Coding Activity" src="https://wakatime.com/share/@AhmadGhoni/8bd9fb95-8452-4f6c-801c-f7278b8f9b60.svg" width="100%">
 </picture>
 <picture>
